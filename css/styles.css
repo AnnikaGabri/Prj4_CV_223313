@@ -3,26 +3,28 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+/*"https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet"> */
+
 /* Styles for the body */
 
 body {
 	font-family: "Rubik", sans-serif;
 	color: #000000;
-	background-color: rgb(250, 192, 192);
+	background-color: rgb(216, 177, 177);
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #ff9696;
+    background-color: #fcaeae;
 }
 
 .resume-main {
-	background-color: #f5c3c3;
+	background-color: #f7d1d1;
 }
 
 .resume-aside {
-	background-color: #ff9696;
+	background-color: #f7b5b5;
 }
 
 /* Styles for lists in the document */
